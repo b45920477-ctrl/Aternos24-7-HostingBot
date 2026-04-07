@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StableSMP-z7IR.aternos.me:21134",
+    "ip": "StableSMP-z7IR.aternos.me",
     "port": 21134,
     "version": "",
     "try-creative": false
